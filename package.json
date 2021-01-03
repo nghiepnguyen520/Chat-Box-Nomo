@@ -1,0 +1,23 @@
+{
+  "name": "chat-2-1-2021",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon ./server.js localhost 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nghiepnguyen520/Nmo-Chat-Box.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nghiepnguyen520/Nmo-Chat-Box/issues"
+  },
+  "homepage": "https://github.com/nghiepnguyen520/Nmo-Chat-Box#readme",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
